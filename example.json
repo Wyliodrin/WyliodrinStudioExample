@@ -4,6 +4,13 @@
 		"file":"example1.wylioapp",
 		"description":"example description 1",
 		"language":"visual"
+	},
+	{
+		"name":"example 2",
+		"file":"empty.wylioapp",
+		"description":"example description 2",
+		"language":"python"
 	}
+
 ]
 
