@@ -1,16 +1,17 @@
 [
 	{
 		"name":"example 1",
-		"file":"example1.wylioapp",
+		"file":"projects/wyliodrin/example1.wylioapp",
 		"description":"example description 1",
-		"language":"visual"
+		"language":"visual",
+		"author":"Wyliodrin"
 	},
 	{
 		"name":"example 2",
-		"file":"empty.wylioapp",
+		"file":"projects/wyliodrin/empty.wylioapp",
 		"description":"example description 2",
-		"language":"python"
+		"language":"python",
+		"author":"Wyliodrin"
 	}
-
 ]
 
