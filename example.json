@@ -1,8 +1,8 @@
 [
 	{
-		"name":"example 1",
-		"file":"projects/wyliodrin/example1.wylioapp",
-		"description":"example description 1",
+		"name":"LED Blink",
+		"file":"projects/wyliodrin/LED-Blink.wylioapp",
+		"description":"LED Blink",
 		"language":"visual",
 		"author":"Wyliodrin"
 	},
