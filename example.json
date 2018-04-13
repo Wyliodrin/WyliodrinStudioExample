@@ -7,10 +7,31 @@
 		"author":"Wyliodrin"
 	},
 	{
-		"name":"example 2",
-		"file":"projects/wyliodrin/empty.wylioapp",
-		"description":"example description 2",
-		"language":"python",
+		"name":"Button",
+		"file":"projects/wyliodrin/Button.wylioapp",
+		"description":"Button",
+		"language":"visual",
+		"author":"Wyliodrin"
+	},
+	{
+		"name":"Music",
+		"file":"projects/wyliodrin/Music.wylioapp",
+		"description":"Music",
+		"language":"visual",
+		"author":"Wyliodrin"
+	},
+	{
+		"name":"Arduino Sensor",
+		"file":"projects/wyliodrin/Arduino-sensor.wylioapp",
+		"description":"Arduino Sensor",
+		"language":"visual",
+		"author":"Wyliodrin"
+	},
+	{
+		"name":"Arduino PWM",
+		"file":"projects/wyliodrin/Arduino-PWM.wylioapp",
+		"description":"Arduino PWM",
+		"language":"visual",
 		"author":"Wyliodrin"
 	}
 ]
